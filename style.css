@@ -1,8 +1,94 @@
-.container{
-    height: 2rem;
-    background-color: blue;
+
+#head{
+    
+    background-color: darkblue;
     color: white;
+  
+   
+  
+
+}
+#profile{
+    padding-top: 0rem;
+    
+}
+.logo{
+    padding-bottom: 0.6rem;
+   padding-left: 0.48rem;
+}
+.menu{
+    margin-left: 0.68rem;
+    width: 0.534rem;
+    height: 0.06rem;
+    background-color: white;
+    margin-bottom: 0.1rem;
+}
+.title{
+    font-size: 0.25rem;
+    padding-left: 0.0001rem;
+    padding-top: 0.8rem;
+}
+.subtitle{
+    font-size: 0.19rem;
+}
+#button{
+   padding-left: 5px;
+    font-size: 40%;
+    width: 2.5rem;
+    height: 1rem;
+    background-color: #0B5ED7;
+}
+.intr{
+   font-size: 40%;
+   width: 8rem;
+   height: 10rem;
+   margin-top: 1rem;
+   padding-top: 0.5rem;
+   padding-left: 0.225rem;
 }
 h6{
-    font-size: 80%;
+    font-size: xx-small;
+    font-family: Bodoni MT condenset;
+    font-weight: bold;
+    
+}
+.photos{
+    font-size: xx-small;
+    border: 0.062rem solid rgb(142,205,90) ;
+    width:6.1rem;
+    height: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.375rem;
+    float: left;
+}
+.photos:hover{
+    border: 0.125rem solid white;
+}
+.photos img{
+    width: 10rem;
+    height: auto;
+    
+}
+.subName{
+    padding: 0.88rem;
+    font-size: 50%;
+}
+
+#footer{
+    height: 4rem;
+    background-color: black;
+    color: white;
+    clear: both;
+    font-size: 30%;
+
+}
+.footi{
+    padding: 0.058rem;
+}
+#thank{
+    width: 2rem;
+    height: auto;
+    background-color: #0000ff;
+    color: black;
 }

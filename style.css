@@ -74,17 +74,15 @@ h6{
     height: auto;
     
 }
-.button{
-    width: 3rem;
-    height: 1rem;
+
+#laptop{
+    width: 6rem;
+    height: 2rem;
     background-color: red;
-    color: linen;
+    color: white;
     clear: both;
-    margin-left: 0.8rem;
-    margin-bottom: 0.8rem;
-    padding-left: 0.2rem;
-    padding-top: 0.2rem;
-    font-size: 40%;
+    font-size:1rem;
+    margin-bottom: 1rem;
 }
 
 #cl{
@@ -196,10 +194,19 @@ h4{
    h6{
        font-size:0.45rem;
    }
+   .button{
+       margin-left: 2rem;
+   }
+   #laptop{
+       font-size: 0.567rem;
+       width: 4rem;
+       height: 1rem;
+   }
    
    #car{
        width: 8rem;
        height: auto;
+       float: right;
    }
 
    .footer{

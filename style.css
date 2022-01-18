@@ -105,13 +105,7 @@ h4{
    
     margin-left: 10rem;
 }
-.car{
-   
-    float: none;
-    margin-top: 0.525rem;
-    
 
-}
 #car{
     width: 17rem;
     height: 10rem;
@@ -126,6 +120,7 @@ h4{
     font-size: 50%;
     background-attachment: fixed;
     background-color: black;
+    clear: both;
 
 }
 #col1{

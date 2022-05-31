@@ -90,7 +90,7 @@ h6{
     background-color: rgb(220, 208, 206);
     border: 1px solid blue;
     margin-right: 1rem;
-    font-size: 30%;
+    font-size: 70%;
     color: rgb(19, 16, 16);
     clear: both;
 }
@@ -153,7 +153,7 @@ h4{
        font-size: xx-small;
    }
    #cl{
-       font-size: 20%;
+       font-size: 40%;
    }
    .title{
        font-size:40%;

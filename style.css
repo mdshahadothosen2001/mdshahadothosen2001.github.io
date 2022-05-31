@@ -212,7 +212,9 @@ h4{
 
 }
 #col1{
-   
+   #cl{
+       font-size: 30%;
+        height: 18rem;
     
     color: white;
     padding-top: 1.25rem;

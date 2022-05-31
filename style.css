@@ -87,11 +87,11 @@ h6{
 
 #cl{
     height: 8rem;
-    background-color: black;
+    background-color: rgb(220, 208, 206);
     border: 1px solid blue;
     margin-right: 1rem;
     font-size: 30%;
-    color: white;
+    color: rgb(19, 16, 16);
     clear: both;
 }
 

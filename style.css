@@ -93,6 +93,8 @@ h6{
     font-size: 70%;
     color: rgb(19, 16, 16);
     clear: both;
+    overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 

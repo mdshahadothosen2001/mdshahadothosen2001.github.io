@@ -86,7 +86,7 @@ h6{
 }
 
 #cl{
-    height: 15rem;
+    height: 20rem;
     background-color: rgb(220, 208, 206);
     border: 1px solid blue;
     margin-right: 1rem;
@@ -156,7 +156,7 @@ h4{
    }
    #cl{
        font-size: 30%;
-        height: 18rem;
+        height: 28rem;
    }
    .title{
        font-size:40%;
@@ -216,7 +216,7 @@ h4{
 #col1{
    #cl{
        font-size: 30%;
-        height: 18rem;
+        height: 28rem;
     
     color: white;
     padding-top: 1.25rem;
@@ -236,13 +236,4 @@ h4{
 }
 }
     
-@media all and (max-width:1182px){
-    #cl{
-       font-size: 30%;
-        height: 18rem;
-    
-    color: white;
-    padding-top: 1.25rem;
-}
-    
-    }
+

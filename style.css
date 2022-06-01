@@ -43,7 +43,7 @@
 .intr{
    font-size: 50%;
    width: 14rem;
-   height: 11.5rem;
+   height: auto;
    margin-top: 1rem;
    padding-top: 0.5rem;
    padding-left: 0.225rem;
